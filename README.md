@@ -27,7 +27,7 @@ Spirit Browser is designed to be the fastest and most efficient web surfing expe
 ## Download
 You can download the latest version for Windows from the link below:
 
-👉 **[Download Installer (v1.0.0)](https://github.com/sllkx/Spirit-Browser/releases/download/v1.0.0/installer.exe)**
+👉 **[Download Installer](https://spirit-browser.isai.kr)**
 
 ## License
 This project is open-source. Feel free to explore the code, report issues, and contribute.
